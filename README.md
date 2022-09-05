@@ -18,5 +18,5 @@ yarn
 ### Rodar o projeto local:
 
 ```sh
-yarn start
+yarn dev
 ```
